@@ -9,9 +9,9 @@
 
 ---
 
-## ⚙️ Tech Stack
+## 🧰 Tech Stack
 
-### 🖥️ Frontend & UI  
+**Frontend & UI**  
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite"/>
 </p>
 
-### ⚙️ Backend & APIs  
+**Backend & APIs**  
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
@@ -29,20 +29,14 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
 </p>
 
-### 🧠 AI & ML  
-<p>
-  <img src="https://img.shields.io/badge/Stable_Diffusion-FF69B4?style=flat-square&logo=artstation"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
-</p>
-
-### 💾 Databases  
+**Databases**  
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql"/>
 </p>
 
-### 🧑‍💻 Programming Languages  
+**Languages**  
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
@@ -52,7 +46,13 @@
   <img src="https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnu-bash"/>
 </p>
 
-### 🛠 DevOps & Tools  
+**AI & ML**  
+<p>
+  <img src="https://img.shields.io/badge/Stable_Diffusion-FF69B4?style=flat-square&logo=artstation"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
+</p>
+
+**DevOps & Tools**  
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
@@ -63,7 +63,35 @@
 
 ---
 
-## 🏆 GitHub Stats
+## 📊 Tech Stack Proficiency
+
+| Skill              | Level         |
+|--------------------|---------------|
+| JavaScript         | 🔥 Advanced   |
+| React / Next.js    | 🔥 Advanced   |
+| Python             | 🌟 Intermediate |
+| Three.js / GSAP    | 🌟 Intermediate |
+| Node.js / Express  | 🌟 Intermediate |
+| MongoDB / MySQL    | 🌟 Intermediate |
+| Java               | 🌟 Intermediate |
+| C / C++            | 🌟 Intermediate |
+| Bash               | 🌟 Intermediate |
+| Stable Diffusion   | 🌟 Intermediate |
+| TypeScript / GSAP  | 🌱 Beginner    |
+| MySQL/PostgreSQL   | 🌱 Beginner    |
+
+---
+
+## 🚀 Featured Projects
+
+- 🎨 [**3D Portfolio**](https://github.com/Parthverma2409/portfolio-site) – React · Three.js · Vite  
+- 🧠 [**AI Image Generator**](https://github.com/Parthverma2409/ai-image-generator) – Stable Diffusion · Flask  
+- 🛍️ [**TrendsBilling**](https://github.com/Parthverma2409/TrendsBilling) – Java · CLI app  
+- 🐧 [**Linux Shell Utilities**](https://github.com/Parthverma2409/linux-tools) – Bash · Linux tools
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parthverma2409&show_icons=true&theme=react&hide_border=true" width="47%" />
@@ -77,19 +105,14 @@
 
 ---
 
-## 📂 Featured Projects
+## 📆 GitHub Activity Calendar
 
-- 🎨 [**3D Portfolio Website**](https://github.com/Parthverma2409/portfolio-site)  
-  _React · Three.js · GSAP · Tailwind · Vite_
+<!-- Replace with your own WakaTime if you use it -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthverma2409&theme=react-dark" alt="activity graph"> -->
 
-- 🧠 [**AI Image Generator UI**](https://github.com/Parthverma2409/ai-image-generator)  
-  _Python · Flask · Stable Diffusion_
-
-- 🛍️ [**TrendsBilling CLI**](https://github.com/Parthverma2409/TrendsBilling)  
-  _Java · Control Statements · Billing App_
-
-- 🐧 [**Shell Scripting Tools**](https://github.com/Parthverma2409/linux-tools)  
-  _Linux utilities & automation_
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthverma2409&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
@@ -104,7 +127,7 @@
 
 ---
 
-## 📈 Visitor Counter
+## 👀 Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Parthverma2409&color=brightgreen&style=flat-square" alt="Profile Views" />
@@ -113,6 +136,6 @@
 ---
 
 <p align="center">
-  <em>“Driven by curiosity, crafting with code.”</em><br>
+  <em>"Driven by curiosity, crafting with code."</em><br/>
   <strong>— Parth Verma</strong>
 </p>
