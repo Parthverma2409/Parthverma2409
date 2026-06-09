@@ -1,141 +1,150 @@
-<!-- Hero Section -->
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                         HERO                             -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Parthverma2409/Parthverma2409/main/assets/profile.png" width="160" style="border-radius:50%;" alt="Parth Verma"/>
-  <h1>Hey, I’m <span style="color:#4FD1C5;">Parth Verma</span> 👋</h1>
-  <p>🧠 CS Undergrad • 💻 Full‑Stack & AI Developer • 🐧 Linux Fanatic</p>
-  <p>🔭 Building 3D web experiences, AI tools, and automation scripts</p>
-  <p>🌱 Learning: Cloud, Docker, advanced Three.js & shell scripting</p>
+
+<img src="https://raw.githubusercontent.com/Parthverma2409/Parthverma2409/main/assets/profile.png" width="140" style="border-radius:50%;" alt="Parth Verma"/>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Parth+Verma;Full-Stack+%26+AI+Developer;Builder+of+real+products%2C+not+just+repos" alt="Typing SVG" />
+</h1>
+
+<p>
+  <code>Next.js</code> · <code>React Native</code> · <code>TypeScript</code> · <code>Supabase</code> · <code>AI/ML</code>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Parthverma2409&color=8B5CF6&style=flat-square&label=visitors" alt="Profile Views" />
+  <a href="https://parthportfolio-alpha.vercel.app"><img src="https://img.shields.io/badge/portfolio-live-8B5CF6?style=flat-square&labelColor=0d1117" alt="Portfolio" /></a>
+</p>
+
 </div>
 
 ---
 
-## 🧰 Tech Stack
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                        ABOUT                             -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-**Frontend & UI**  
+### `whoami`
+
+```text
+CS undergrad @ VIT Chennai  ·  3rd year, building since year one
+Full-stack engineer  ·  AI/ML tinkerer  ·  freelance (Upwork)
+Projects Lead @ IEEE Computer Society VIT Chennai
+```
+
+- 🛠  Shipping production apps — multi-tenant SaaS, realtime systems, AI tooling
+- 🧠  Into generative AI — fine-tuned Stable Diffusion (LoRA / DreamBooth) during an AI internship
+- 🌱  Currently going deeper on realtime infra (LiveKit, WebRTC) and system design
+- ⚡  I'd rather build something real and break it than collect tutorial badges
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                       TECH STACK                         -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+### `stack`
+
+**Core**
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite"/>
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
 </p>
 
-**Backend & APIs**  
+**Backend & Data**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/tRPC-0d1117?style=flat-square&logo=trpc&logoColor=2596BE"/>
+  <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791"/>
+  <img src="https://img.shields.io/badge/Turborepo-0d1117?style=flat-square&logo=turborepo&logoColor=EF4444"/>
 </p>
 
-**Databases**  
+**AI / ML**
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Stable_Diffusion-0d1117?style=flat-square&logo=stabilityai&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/>
 </p>
 
-**Languages**  
+**Tooling**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnu-bash"/>
-</p>
-
-**AI & ML**  
-<p>
-  <img src="https://img.shields.io/badge/Stable_Diffusion-FF69B4?style=flat-square&logo=artstation"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
-</p>
-
-**DevOps & Tools**  
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma"/>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=635BFF"/>
+  <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E"/>
 </p>
 
 ---
 
-## 📊 Tech Stack Proficiency
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                       PROJECTS                           -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-| Skill              | Level         |
-|--------------------|---------------|
-| JavaScript         | 🔥 Advanced   |
-| React / Next.js    | 🔥 Advanced   |
-| Python             | 🌟 Intermediate |
-| Three.js / GSAP    | 🌟 Intermediate |
-| Node.js / Express  | 🌟 Intermediate |
-| MongoDB / MySQL    | 🌟 Intermediate |
-| Java               | 🌟 Intermediate |
-| C / C++            | 🌟 Intermediate |
-| Bash               | 🌟 Intermediate |
-| Stable Diffusion   | 🌟 Intermediate |
-| TypeScript / GSAP  | 🌱 Beginner    |
-| MySQL/PostgreSQL   | 🌱 Beginner    |
+### `featured`
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[TrustWall](https://github.com/Parthverma2409)** | Multi-tenant testimonials SaaS with embeddable widgets & tiered billing | `Next.js 14` `tRPC` `Prisma` `Stripe` `Clerk` |
+| **[StaySync](https://github.com/Parthverma2409)** | Cross-platform stay-management app — monorepo, realtime, 13 edge functions | `Turborepo` `React Native` `Supabase` `Stripe` |
+| **[CivicSense](https://github.com/Parthverma2409)** | Civic-issue reporting platform (submitted to ICCMSO 2026) | `Next.js` `Supabase` `Gemini 1.5` `Leaflet` |
+| **[Chronos](https://github.com/Parthverma2409)** | Multimodal AI project — PatchFest + Kaggle capstone | `Python` `Multimodal ML` |
+
+> More on the portfolio → **[parthportfolio-alpha.vercel.app](https://parthportfolio-alpha.vercel.app)**
 
 ---
 
-## 🚀 Featured Projects
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                         STATS                            -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-- 🎨 [**3D Portfolio**](https://github.com/Parthverma2409/portfolio-site) – React · Three.js · Vite  
-- 🧠 [**AI Image Generator**](https://github.com/Parthverma2409/ai-image-generator) – Stable Diffusion · Flask  
-- 🛍️ [**TrendsBilling**](https://github.com/Parthverma2409/TrendsBilling) – Java · CLI app  
-- 🐧 [**Linux Shell Utilities**](https://github.com/Parthverma2409/linux-tools) – Bash · Linux tools
-
----
-
-## 📈 GitHub Stats
+### `stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthverma2409&show_icons=true&theme=react&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthverma2409&layout=compact&theme=react&hide_border=true" width="47%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Parthverma2409&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthverma2409&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthverma2409&theme=react&hide_border=true" width="47%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Parthverma2409&theme=gruvbox&column=4&margin-w=10&no-frame=true" width="47%" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parthverma2409&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Parthverma2409&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthverma2409&hide_border=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=c9d1d9&area=true" />
 </p>
 
 ---
 
-## 📆 GitHub Activity Calendar
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                        CONNECT                           -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-<!-- Replace with your own WakaTime if you use it -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthverma2409&theme=react-dark" alt="activity graph"> -->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthverma2409&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
+### `connect`
 
 <p align="center">
-  <a href="https://github.com/Parthverma2409"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/parth-verma-472110353"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://instagram.com/ur_narrator_4evr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
-  <a href="mailto:vermaparth2409@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/parth-verma-679aaa327"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://github.com/Parthverma2409"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:vermaparth2409@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://parthportfolio-alpha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
----
+<br/>
 
-## 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parthverma2409&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <em>"Driven by curiosity, crafting with code."</em><br/>
-  <strong>— Parth Verma</strong>
-</p>
+<div align="center">
+  <i>"Build quietly. Break things loudly. Learn either way."</i>
+  <br/><br/>
+  <sub>— Parth</sub>
+</div>
