@@ -17,6 +17,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Parthverma2409&color=8B5CF6&style=flat-square&label=visitors" alt="Profile Views" />
   <a href="https://parthportfolio-alpha.vercel.app"><img src="https://img.shields.io/badge/portfolio-live-8B5CF6?style=flat-square&labelColor=0d1117" alt="Portfolio" /></a>
+  <a href="https://drive.google.com/file/d/1RIiGqvxQBfkh_YJsalGLfLztWDJJVtzw/view"><img src="https://img.shields.io/badge/resume-PDF-8B5CF6?style=flat-square&labelColor=0d1117" alt="Resume" /></a>
 </p>
 
 </div>
@@ -94,12 +95,27 @@ Projects Lead @ IEEE Computer Society VIT Chennai
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[TrustWall](https://github.com/Parthverma2409)** | Multi-tenant testimonials SaaS with embeddable widgets & tiered billing | `Next.js 14` `tRPC` `Prisma` `Stripe` `Clerk` |
-| **[StaySync](https://github.com/Parthverma2409)** | Cross-platform stay-management app — monorepo, realtime, 13 edge functions | `Turborepo` `React Native` `Supabase` `Stripe` |
-| **[CivicSense](https://github.com/Parthverma2409)** | Civic-issue reporting platform (submitted to ICCMSO 2026) | `Next.js` `Supabase` `Gemini 1.5` `Leaflet` |
-| **[Chronos](https://github.com/Parthverma2409)** | Multimodal AI project — PatchFest + Kaggle capstone | `Python` `Multimodal ML` |
+| **[TrustWall](https://github.com/Parthverma2409/trustwall-saas)** | Multi-tenant testimonials SaaS — embeddable widgets, tiered billing, founder-built | `Next.js 14` `tRPC` `Prisma` `Stripe` `Clerk` |
+| **[StaySync](https://github.com/Parthverma2409/staysync)** | Cross-platform stay-management app — monorepo, realtime, edge functions | `Turborepo` `React Native` `Supabase` `Stripe` |
+| **[CivicSense](https://github.com/Parthverma2409/Crowdsourced-Civic-lssue-Reporting-and-Resolution-System)** | Crowdsourced civic-issue reporting & resolution (submitted to ICCMSO 2026) | `Next.js` `Supabase` `Gemini 1.5` `Leaflet` |
+| **[NeuroNest](https://github.com/Parthverma2409/neuronest)** | Accessible app helping neurodiverse & elderly users learn to navigate the internet | `React` `Accessibility` |
+| **[Portfolio](https://github.com/Parthverma2409/parthportfolio)** | Personal portfolio site → [live](https://parthportfolio-alpha.vercel.app) | `Next.js` `React` `Tailwind` |
+| **[gemini-cli](https://github.com/Parthverma2409/gemini-cli)** | Contribution fork — added behavioral evaluation tests to google-gemini/gemini-cli | `TypeScript` `Node.js` |
 
-> More on the portfolio → **[parthportfolio-alpha.vercel.app](https://parthportfolio-alpha.vercel.app)**
+<details>
+<summary><b>more builds</b></summary>
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Club Website '26](https://github.com/Parthverma2409/club-website-26)** | IEEE Computer Society VIT Chennai site | `Next.js` `React` |
+| **[Laser Tag](https://github.com/Parthverma2409/lasertag-frontend)** | Laser-tag app frontend | `React` `TypeScript` |
+| **[Gaming Website](https://github.com/Parthverma2409/GamingWebsite)** | Gaming-themed web project | `React` `Tailwind` |
+
+</details>
+
+> 📝 First technical blog → **[Comprehensive DNS Network Parameter Analysis](https://vermaparth2409.blogspot.com/2026/04/comprehensive-dns-network-parameter.html)** — 30 PCAPs, Python pipeline, full write-up
+>
+> 🌐 Portfolio → **[parthportfolio-alpha.vercel.app](https://parthportfolio-alpha.vercel.app)**
 
 ---
 
@@ -139,6 +155,7 @@ Projects Lead @ IEEE Computer Society VIT Chennai
   <a href="https://github.com/Parthverma2409"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:vermaparth2409@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
   <a href="https://parthportfolio-alpha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1RIiGqvxQBfkh_YJsalGLfLztWDJJVtzw/view"><img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=googledrive&logoColor=4285F4" /></a>
 </p>
 
 <br/>
