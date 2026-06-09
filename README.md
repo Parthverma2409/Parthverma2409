@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Parthverma2409/Parthverma2409/main/assets/profile.png" width="140" style="border-radius:50%;" alt="Parth Verma"/>
+<img src="https://github.com/Parthverma2409.png" width="140" style="border-radius:50%;" alt="Parth Verma"/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Parth+Verma;Full-Stack+%26+AI+Developer;Builder+of+real+products%2C+not+just+repos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Parth+Verma;Full-Stack+%26+AI+Developer;Builder+of+real+products%2C+not+just+repos." alt="Typing SVG" />
 </h1>
 
 <p>
